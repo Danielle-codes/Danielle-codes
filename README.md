@@ -1,4 +1,4 @@
-👋 Hi, I’m @Danielle-codes
+👋 Hi, I’m Ay
 👀 I’m interested in geo-ml projects but also open to different data science projects
 🌱 I’m currently building my python programming skills.
 ⚡ Fun fact: I enjoy watch female basketball 🏀
